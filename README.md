@@ -1,4 +1,8 @@
-<!--img src="https://img.itch.zone/aW1nLzcyNzgzNTgucG5n/original/GplhiH.png" style="background-image: url(https://img.itch.zone/aW1nLzcyNzgzNTgucG5n/original/GplhiH.png); background-repeat: repeat" width="100%" height="136px"-->
+## Hi there 👋
+I'm **lemocha**, and I do stuff, mostly in HTML / CSS / JS.  
 
-### Hi there 👋
-I'm <b>lemocha</b>, and I do stuff.
+
+Projects:
+============
+
+[lemocha7.github.io](https://lemocha7.github.io) - my unfinished website
