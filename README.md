@@ -1,8 +1,10 @@
-## Hi there 👋
-I'm **lemocha**, and I do stuff, mostly in HTML / CSS / JS.  
+hello :)
 
+I'm **lemocha**, a Canadian rhythm game fan who wants to become an artist.
 
-Projects:
-============
+I'm also web programmer (**HTML / CSS / JS**).
 
-[lemocha7.github.io](https://lemocha7.github.io) - my unfinished website
+# Projects
+[Tile Layer](https://github.com/Tile-Layer-JS/TileLayer) - Open source map editing / pixel art tool in JavaScript
+
+[lemocha7.github.io](https://lemocha7.github.io) - my website
